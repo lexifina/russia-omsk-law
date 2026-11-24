@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-omsk",
+   "kind": "legislation",
+   "name": {
+    "en": "Omsk Oblast: Official Internet Portal of Legal Information (region55)",
+    "ru": "Omsk Oblast: Официальный интернет-портал правовой информации (region55)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region55",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/omsk/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-omsk-law",
+   "group": "pravo",
+   "tz": "Asia/Omsk"
+  }
+ ]
+}
