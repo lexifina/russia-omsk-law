@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:24:35Z",
+ "generated": "2026-11-25T07:01:31Z",
  "latest": {
   "pravo-omsk|russia/omsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1322,
     "source_in_scope": 1322
    },
-   "check_id": "ru-pravo-omsk-20261124T142106Z",
+   "check_id": "ru-pravo-omsk-20261125T062132Z",
    "commits": null,
    "corpus": "russia/omsk/acts",
    "error": null,
-   "finished": "2026-11-24T14:24:34Z",
+   "finished": "2026-11-25T06:22:15Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region55: 1322 law-type documents listed (every page read); 1322 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1322 law-type documents in block region55; newest published 2026-10-27",
    "source": "pravo-omsk",
-   "started": "2026-11-24T14:21:06Z",
+   "started": "2026-11-25T06:21:32Z",
    "unexplained": 0,
    "update": {
     "parts": []
