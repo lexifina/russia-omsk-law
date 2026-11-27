@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Omsk Oblast: Official Internet Portal of Legal Information (region55) · `russia/omsk/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:47 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:43 UTC**.
 - Acts held here: 1 322; current at the source: 1 322; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
