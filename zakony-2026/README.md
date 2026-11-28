@@ -1,6 +1,6 @@
 # Omsk Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 13 versions, from 2026-02-03 (latest in force: 2026-10-27) · <http://publication.pravo.gov.ru/documents/block/region55>
+Законы 2026 · 14 versions, from 2026-02-03 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region55>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -87,3 +87,8 @@
 | Закон № 2998-ОЗ | [2998-oz.md](2998-oz.md) | 1 | 2026-10-27 |
 | Закон № 2999-ОЗ | [2999-oz.md](2999-oz.md) | 1 | 2026-10-27 |
 | Закон № 3000-ОЗ | [3000-oz.md](3000-oz.md) | 1 | 2026-10-27 |
+| Закон № 3001-ОЗ | [3001-oz.md](3001-oz.md) | 1 | 2026-11-27 |
+| Закон № 3002-ОЗ | [3002-oz.md](3002-oz.md) | 1 | 2026-11-27 |
+| Закон № 3003-ОЗ | [3003-oz.md](3003-oz.md) | 1 | 2026-11-27 |
+| Закон № 3004-ОЗ | [3004-oz.md](3004-oz.md) | 1 | 2026-11-27 |
+| Закон № 3005-ОЗ | [3005-oz.md](3005-oz.md) | 1 | 2026-11-27 |
