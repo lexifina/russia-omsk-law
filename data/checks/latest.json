@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:10:48Z",
+ "generated": "2026-11-28T06:25:08Z",
  "latest": {
   "pravo-omsk|russia/omsk/acts": {
    "attempt": 1,
@@ -12,26 +12,36 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1322,
+    "checked": 1327,
     "current": 1322,
     "gone": 0,
     "held": 1322,
     "newest_in_repo": "2026-10-27",
-    "pending": 0,
+    "pending": 5,
     "repo": 1322,
-    "source_in_scope": 1322
+    "source_in_scope": 1327
    },
-   "check_id": "ru-pravo-omsk-20261127T054300Z",
-   "commits": null,
+   "check_id": "ru-pravo-omsk-20261128T055127Z",
+   "commits": {
+    "count": 2,
+    "from": "98d9ec6a931fbd5335b1b4e32231eca6e55b731f",
+    "to": "7704eb7c94121a98c71caa4f781e36540f4393d5"
+   },
    "corpus": "russia/omsk/acts",
    "error": null,
-   "finished": "2026-11-27T05:43:36Z",
+   "finished": "2026-11-28T05:52:14Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region55: 1322 law-type documents listed (every page read); 1322 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region55: 1327 law-type documents listed (every page read); 1322 held here; 5 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "5500202611270001",
+     "5500202611270002",
+     "5500202611270003",
+     "5500202611270004",
+     "5500202611270007"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +49,32 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "5500202611270001",
+     "5500202611270002",
+     "5500202611270003",
+     "5500202611270004",
+     "5500202611270007"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1322 law-type documents in block region55; newest published 2026-10-27",
+   "snapshot": "1327 law-type documents in block region55; newest published 2026-11-27",
    "source": "pravo-omsk",
-   "started": "2026-11-27T05:43:00Z",
+   "started": "2026-11-28T05:51:27Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +83,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 245,
+    "versions_checked": 246,
     "versions_differ": 0
    }
   }
